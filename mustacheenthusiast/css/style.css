@@ -40,7 +40,6 @@ p a:hover {
 	width: 960px;
 }
 #header a.logo {
-	width: 20px;
 	display: block;
 	margin: 0 auto;
 	padding: 0;
@@ -49,7 +48,7 @@ p a:hover {
 		border: 0;
 	display: block;
 	margin: 0;
-	padding: 0;
+	padding: 10px;
 }
 #header ul {
 	margin: 0;
@@ -173,7 +172,7 @@ p a:hover {
 	width: 558px;
 }
 #body div ul li div h3 {
-	color: #252525;
+	color: black;
 	font-family: "Bungee", cursive;
 	font-size: 25px;
 	font-weight: normal;
@@ -185,7 +184,7 @@ p a:hover {
 	padding: 30px 30px 18px;
 }
 #body div ul li div a.more {
-	background: #252525;
+	background: white;
 	color: #blue;
 	display: inline-block;
 	font-family: "Bungee", cursive;
@@ -197,9 +196,9 @@ p a:hover {
 	text-transform: uppercase;
 }
 #body div ul li div a.more:hover {
-	color: #252525;
-	background: #fff;
-	border: 2px solid #252525;
+	color: black
+	background: white;
+	border: 2px solid white;
 }
 #body #featured {
 	margin: 0 0 13px;
