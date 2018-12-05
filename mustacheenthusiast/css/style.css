@@ -18,7 +18,7 @@
 
 body {
 	background: #fff;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Bungee', cursive, 'Source Sans Pro', Arial, Helvetica, sans-serif;
 	font-size: 14px;
 	font-weight: normal;
 	line-height: 1;
@@ -69,7 +69,7 @@ p a:hover {
 	padding: 0 19px;
 }
 #header ul li a {
-	color: #252525;
+	color: #5bc1ff;
 	display: inline-block;
 	font-family: "Arial Black", Gadget, sans-serif;
 	font-size: 14px;
@@ -235,8 +235,8 @@ p a:hover {
 	background: pink;
 	color: orange;
 	display: inline-block;
-	font-family: Helvetica;
-	font-size: 60px;
+	font-family: 'Bungee', cursive;
+	font-size: 50px;
 	font-weight: normal;
 	margin: 0 0 18px;
 	padding: 23px 27px 20px;
@@ -246,7 +246,7 @@ p a:hover {
 	background: orange;
 	color: pink;
 	display: inline-block;
-	font-size: 40px;
+	font-size: 30px;
 	margin: 7px 0;
 	padding: 12px 27px;
 }
@@ -280,7 +280,7 @@ p a:hover {
 #body > ul li a {
 	color: lilac;
 	display: block;
-	font-family: Helvetica;
+	font-family: 'Bungee', cursive;
 	font-size: 20px;
 	font-weight: normal;
 	margin: 0;
@@ -302,7 +302,7 @@ p a:hover {
 	opacity: 1;
 }
 #body > ul li a span {
-	display: block;
+		display: block;
 	margin: 0;
 	padding: 33px 0 0;
 }
@@ -344,7 +344,7 @@ p a:hover {
 	cursor: pointer;
 }
 #footer {
-	background: #252525;
+	background: #ffcf5b;
 	margin: 0;
 	padding: 36px 0 42px;
 }
