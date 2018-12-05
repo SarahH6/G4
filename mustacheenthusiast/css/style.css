@@ -1,12 +1,11 @@
 /* Website Template by freewebsitetemplates.com */
-@font-face {
-	font-family: 'poller_oneregular';
-	src: url('../fonts/pollerone/pollerone-webfont.eot');
-	src: url('../fonts/pollerone/pollerone-webfont.eot?#iefix') format('embedded-opentype'),
-		 url('../fonts/pollerone/pollerone-webfont.woff') format('woff'),
-		 url('../fonts/pollerone/pollerone-webfont.ttf') format('truetype'),
-		 url('../fonts/pollerone/pollerone-webfont.svg#poller_oneregular') format('svg');
+<style>
+@import url('https://fonts.googleapis.com/css?family=Charmonman');
+</style>
 }
+<style>
+@import url('https://fonts.googleapis.com/css?family=Charmonman|Open+Sans');
+</style>
 @font-face {
 	font-family: 'leckerli_oneregular';
 	src: url('../fonts/leckerlione/leckerlione-regular-webfont.eot');
@@ -18,7 +17,12 @@
 
 body {
 	background: #fff;
-	font-family: Arial, Helvetica, sans-serif;
+<<<<<<< HEAD
+	font-family: 'Charmonman', cursive;
+font-family: 'Open Sans', sans-serif;
+=======
+	font-family: 'Bungee', cursive, 'Source Sans Pro', Arial, Helvetica, sans-serif;
+>>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	font-size: 14px;
 	font-weight: normal;
 	line-height: 1;
@@ -26,18 +30,23 @@ body {
 	min-width: 960px;
 	padding: 0;
 }
+
 p {
-	color: #252525;
+<<<<<<< HEAD
+	color: #696969;
+=======
+	color: cyan;
+>>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	line-height: 24px;
 	margin: 0;
 	padding: 0;
 }
 p a {
-	color: #252525;
+	color: yellow;
 	text-decoration: underline;
 }
 p a:hover {
-	color: #898989;
+	color: #pink;
 }
 #header {
 	margin: 0 auto;
@@ -49,9 +58,10 @@ p a:hover {
 	display: block;
 	margin: 0 auto;
 	padding: 0;
-	width: 340px;
+	width: 30px;
 }
 #header a.logo img {
+	width: 40px;
 	border: 0;
 	display: block;
 	margin: 0;
@@ -68,9 +78,14 @@ p a:hover {
 	padding: 0 19px;
 }
 #header ul li a {
-	color: #252525;
+<<<<<<< HEAD
+	color: #66CDAA;
+=======
+	color: #5bc1ff;
+>>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	display: inline-block;
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: 'Charmonman', cursive;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	font-weight: normal;
 	margin: 0;
@@ -79,7 +94,7 @@ p a:hover {
 	text-transform: uppercase;
 }
 #header ul li a:hover, #header ul li.selected a {
-	color: #0ba39c;
+	color: lilac;
 }
 #body {
 	margin: 0;
@@ -87,9 +102,13 @@ p a:hover {
 	text-align: center;
 }
 #body h1 {
-	color: #fff;
+<<<<<<< HEAD
+	color: #3CB371;
+=======
+	color: orange;
+>>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	display: inline;
-	font-family: poller_oneregular;
+	font-family: 'Charmonman', cursive;;
 	font-size: 35px;
 	font-weight: normal;
 	margin: 0;
@@ -97,7 +116,11 @@ p a:hover {
 	text-transform: uppercase;
 }
 #body h1 span {
-	background: #252525;
+<<<<<<< HEAD
+	background: #FFC0CB;
+=======
+	background: salmon;
+>>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	display: inline-block;
 	padding: 15px 28px 12px;
 }
@@ -107,7 +130,11 @@ p a:hover {
 	width: 960px;
 }
 #body > div img {
-	border: 2px solid #292929;
+<<<<<<< HEAD
+	border: 2px solid #FF1493;
+=======
+	border: 2px solid grey;
+>>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	margin: 24px 0 0;
 	padding: 0;
 }
@@ -117,22 +144,27 @@ p a:hover {
 	width: 560px;
 }
 #body > div .article h2 {
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: 'Charmonman', cursive;
 	font-size: 25px;
 	font-weight: normal;
 	margin: 0 0 30px;
 }
 #body > div .article h3 {
-	color: #252525;
+	color: magenta;
 	line-height: 24px;
 	margin: 0;
 	padding: 0;
 }
 #body > div .article h4 {
-	background: #252525;
-	color: #fff;
+<<<<<<< HEAD
+	background: #FFC0CB;
+	color: #3CB371;
+=======
+	background: cerise;
+	color: gold;
+>>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	display: inline-block;
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: 'Charmonman', cursive;, Gadget, sans-serif;
 	font-size: 25px;
 	font-weight: normal;
 	margin: 0 0 30px;
@@ -147,7 +179,7 @@ p a:hover {
 	width: 940px;
 }
 #body div ul li {
-	border: 2px solid #1a1a1a;
+	border: 2px solid #lalala;
 	display: block;
 	list-style: none;
 	margin: 0 0 13px;
@@ -191,8 +223,8 @@ p a:hover {
 	padding: 30px 30px 18px;
 }
 #body div ul li div a.more {
-	background: #000;
-	color: #fff;
+	background: #252525;
+	color: #252525;
 	display: inline-block;
 	font-family: "Arial Black", Gadget, sans-serif;
 	font-size: 18px;
@@ -231,27 +263,32 @@ p a:hover {
 	width: 490px;
 }
 #body #featured div h2 {
+<<<<<<< HEAD
 	background: #fff;
-	color: #000;
+	color: #FF1493;
+=======
+	background: pink;
+	color: orange;
+>>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	display: inline-block;
-	font-family: poller_oneregular;
-	font-size: 20px;
+	font-family: 'Bungee', cursive;
+	font-size: 50px;
 	font-weight: normal;
 	margin: 0 0 18px;
 	padding: 23px 27px 20px;
 	text-transform: uppercase;
 }
 #body #featured div span {
-	background: #252525;
-	color: #fff;
+	background: orange;
+	color: pink;
 	display: inline-block;
-	font-size: 20px;
+	font-size: 30px;
 	margin: 7px 0;
 	padding: 12px 27px;
 }
 #body #featured div a {
-	background: #0ba39c;
-	color: #fff;
+	background: magenta;
+	color: turquoise;
 	display: inline-block;
 	font-size: 16px;
 	margin: 15px 0 0;
@@ -277,9 +314,9 @@ p a:hover {
 	width: 300px;
 }
 #body > ul li a {
-	color: #000;
+	color: lilac;
 	display: block;
-	font-family: poller_oneregular;
+	font-family: 'Bungee', cursive;
 	font-size: 20px;
 	font-weight: normal;
 	margin: 0;
@@ -289,7 +326,12 @@ p a:hover {
 	text-transform: uppercase;
 }
 #body > ul li a img {
-	border: 2px solid #1a1a1a;
+<<<<<<< HEAD
+	border: 2px solid  #FF1493;
+=======
+  width: 300px
+	border: 2px solid orange;
+>>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	display: block;
 	margin: 0;
 	padding: 0;
@@ -300,7 +342,7 @@ p a:hover {
 	opacity: 1;
 }
 #body > ul li a span {
-	display: block;
+		display: block;
 	margin: 0;
 	padding: 33px 0 0;
 }
@@ -311,7 +353,7 @@ p a:hover {
 }
 #body form input, #body form textarea {
 	border: 2px solid #252525;
-	color: #252525;
+	color: #FFC0CB;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 15px;
 	font-weight: normal;
@@ -327,8 +369,8 @@ p a:hover {
 	resize: none;
 }
 #body form #send {
-	background: #252525;
-	color: #fff;
+	background:  #FF1493;
+	color:  #FF1493;
 	font-family: "Arial Black", Gadget, sans-serif;
 	font-size: 15px;
 	font-weight: normal;
@@ -338,11 +380,15 @@ p a:hover {
 }
 #body form #send:hover {
 	background: #fff;
-	color: #252525;
+	color: #FFC0CB;
 	cursor: pointer;
 }
 #footer {
-	background: #252525;
+<<<<<<< HEAD
+	background: #FF1493;
+=======
+	background: #ffcf5b;
+>>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	margin: 0;
 	padding: 36px 0 42px;
 }
