@@ -1,10 +1,5 @@
 /* Website Template by freewebsitetemplates.com */
-<style>
-@import url('https://fonts.googleapis.com/css?family=Charmonman');
-</style>
-}
-<style>
-</style>
+
 @font-face {
 	font-family: 'leckerli_oneregular';
 	src: url('../fonts/leckerlione/leckerlione-regular-webfont.eot');
@@ -17,8 +12,8 @@
 body {
 	background: #fff;
 <<<<<<< HEAD
-	font-family: 'Charmonman', cursive;
-font-family: 'Open Sans', sans-serif;
+	font-family: 'Ariel Black',
+
 =======
 	font-family: 'Bungee', cursive, 'Source Sans Pro', Arial, Helvetica, sans-serif;
 >>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
@@ -83,8 +78,7 @@ p a:hover {
 	color: #5bc1ff;
 >>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	display: inline-block;
-	font-family: 'Charmonman', cursive;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Ariel Black', cursive;
 	font-size: 14px;
 	font-weight: normal;
 	margin: 0;
@@ -104,7 +98,6 @@ p a:hover {
 <<<<<<< HEAD
 	color: #3CB371;
 =======
-	color: orange;
 >>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	display: inline;
 	font-family: 'Charmonman', cursive;;
@@ -143,7 +136,7 @@ p a:hover {
 	width: 560px;
 }
 #body > div .article h2 {
-	font-family: 'Charmonman', cursive;
+	font-family: 'Arial Black';
 	font-size: 25px;
 	font-weight: normal;
 	margin: 0 0 30px;
@@ -163,7 +156,7 @@ p a:hover {
 	color: gold;
 >>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	display: inline-block;
-	font-family: 'Charmonman', cursive;, Gadget, sans-serif;
+	font-family: 'Arial Black', cursive;, Gadget, sans-serif;
 	font-size: 25px;
 	font-weight: normal;
 	margin: 0 0 30px;
