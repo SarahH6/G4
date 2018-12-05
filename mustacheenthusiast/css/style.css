@@ -11,16 +11,7 @@
 
 body {
 	background: #fff;
-<<<<<<< HEAD
-<<<<<<< HEAD
-	font-family: 'Ariel Black',
-
-=======
 	font-family: 'Bungee', cursive, 'Source Sans Pro', Arial, Helvetica, sans-serif;
->>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
-=======
-	font-family: 'Bungee', cursive;
->>>>>>> 38d9cfd5a820154c67efd17f1c897be72d3d1f62
 	font-size: 14px;
 	font-weight: normal;
 	line-height: 1;
@@ -49,14 +40,13 @@ p a:hover {
 	width: 960px;
 }
 #header a.logo {
+	width: 20px;
 	display: block;
 	margin: 0 auto;
 	padding: 0;
-	width: 30px;
-}
+	}
 #header a.logo img {
-	width: 40px;
-	border: 0;
+		border: 0;
 	display: block;
 	margin: 0;
 	padding: 0;
@@ -74,12 +64,7 @@ p a:hover {
 #header ul li a {
 	color: #66CDAA;
 	display: inline-block;
-<<<<<<< HEAD
-	font-family: 'Ariel Black', cursive;
-=======
 	font-family: "Bungee", cursive;
-	font-family: 'Open Sans', sans-serif;
->>>>>>> 38d9cfd5a820154c67efd17f1c897be72d3d1f62
 	font-size: 14px;
 	font-weight: normal;
 	margin: 0;
@@ -97,11 +82,6 @@ p a:hover {
 }
 #body h1 {
 	color: #3CB371;
-<<<<<<< HEAD
-=======
->>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
-=======
->>>>>>> 38d9cfd5a820154c67efd17f1c897be72d3d1f62
 	display: inline;
 	font-family: 'Bungee', cursive;;
 	font-size: 35px;
@@ -131,11 +111,7 @@ p a:hover {
 	width: 560px;
 }
 #body > div .article h2 {
-<<<<<<< HEAD
-	font-family: 'Arial Black';
-=======
 	font-family: "Bungee", cursive;
->>>>>>> 38d9cfd5a820154c67efd17f1c897be72d3d1f62
 	font-size: 25px;
 	font-weight: normal;
 	margin: 0 0 30px;
@@ -150,11 +126,7 @@ p a:hover {
 	background: #FFC0CB;
 	color: #3CB371;
 	display: inline-block;
-<<<<<<< HEAD
-	font-family: 'Arial Black', cursive;, Gadget, sans-serif;
-=======
 	font-family: "Bungee", cursive;
->>>>>>> 38d9cfd5a820154c67efd17f1c897be72d3d1f62
 	font-size: 25px;
 	font-weight: normal;
 	margin: 0 0 30px;
@@ -365,8 +337,7 @@ p a:hover {
 	cursor: pointer;
 }
 #footer {
-	background: #FF1493;
-	margin: 0;
+		margin: 0;
 	padding: 36px 0 42px;
 }
 #footer div {
