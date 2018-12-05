@@ -27,17 +27,17 @@ body {
 	padding: 0;
 }
 p {
-	color: #252525;
+	color: cyan;
 	line-height: 24px;
 	margin: 0;
 	padding: 0;
 }
 p a {
-	color: #252525;
+	color: yellow;
 	text-decoration: underline;
 }
 p a:hover {
-	color: #898989;
+	color: #pink;
 }
 #header {
 	margin: 0 auto;
@@ -52,7 +52,7 @@ p a:hover {
 	width: 30px;
 }
 #header a.logo img {
-	size: 30px;
+	width: 40px;
 	border: 0;
 	display: block;
 	margin: 0;
@@ -80,7 +80,7 @@ p a:hover {
 	text-transform: uppercase;
 }
 #header ul li a:hover, #header ul li.selected a {
-	color: #0ba39c;
+	color: lilac;
 }
 #body {
 	margin: 0;
@@ -88,7 +88,7 @@ p a:hover {
 	text-align: center;
 }
 #body h1 {
-	color: #fff;
+	color: orange;
 	display: inline;
 	font-family: poller_oneregular;
 	font-size: 35px;
@@ -98,7 +98,7 @@ p a:hover {
 	text-transform: uppercase;
 }
 #body h1 span {
-	background: #252525;
+	background: salmon;
 	display: inline-block;
 	padding: 15px 28px 12px;
 }
@@ -108,7 +108,7 @@ p a:hover {
 	width: 960px;
 }
 #body > div img {
-	border: 2px solid #292929;
+	border: 2px solid grey;
 	margin: 24px 0 0;
 	padding: 0;
 }
@@ -124,14 +124,14 @@ p a:hover {
 	margin: 0 0 30px;
 }
 #body > div .article h3 {
-	color: #252525;
+	color: magenta;
 	line-height: 24px;
 	margin: 0;
 	padding: 0;
 }
 #body > div .article h4 {
-	background: #252525;
-	color: #fff;
+	background: cerise;
+	color: gold;
 	display: inline-block;
 	font-family: "Arial Black", Gadget, sans-serif;
 	font-size: 25px;
@@ -232,27 +232,27 @@ p a:hover {
 	width: 490px;
 }
 #body #featured div h2 {
-	background: #fff;
-	color: #000;
+	background: pink;
+	color: orange;
 	display: inline-block;
-	font-family: poller_oneregular;
-	font-size: 20px;
+	font-family: Helvetica;
+	font-size: 60px;
 	font-weight: normal;
 	margin: 0 0 18px;
 	padding: 23px 27px 20px;
 	text-transform: uppercase;
 }
 #body #featured div span {
-	background: #252525;
-	color: #fff;
+	background: orange;
+	color: pink;
 	display: inline-block;
-	font-size: 20px;
+	font-size: 40px;
 	margin: 7px 0;
 	padding: 12px 27px;
 }
 #body #featured div a {
-	background: #0ba39c;
-	color: #fff;
+	background: magenta;
+	color: turquoise;
 	display: inline-block;
 	font-size: 16px;
 	margin: 15px 0 0;
@@ -278,9 +278,9 @@ p a:hover {
 	width: 300px;
 }
 #body > ul li a {
-	color: #000;
+	color: lilac;
 	display: block;
-	font-family: poller_oneregular;
+	font-family: Helvetica;
 	font-size: 20px;
 	font-weight: normal;
 	margin: 0;
@@ -290,7 +290,8 @@ p a:hover {
 	text-transform: uppercase;
 }
 #body > ul li a img {
-	border: 2px solid #1a1a1a;
+  width: 300px
+	border: 2px solid orange;
 	display: block;
 	margin: 0;
 	padding: 0;
