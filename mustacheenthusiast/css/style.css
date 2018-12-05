@@ -12,11 +12,15 @@
 body {
 	background: #fff;
 <<<<<<< HEAD
+<<<<<<< HEAD
 	font-family: 'Ariel Black',
 
 =======
 	font-family: 'Bungee', cursive, 'Source Sans Pro', Arial, Helvetica, sans-serif;
 >>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
+=======
+	font-family: 'Bungee', cursive;
+>>>>>>> 38d9cfd5a820154c67efd17f1c897be72d3d1f62
 	font-size: 14px;
 	font-weight: normal;
 	line-height: 1;
@@ -26,11 +30,7 @@ body {
 }
 
 p {
-<<<<<<< HEAD
 	color: #696969;
-=======
-	color: cyan;
->>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	line-height: 24px;
 	margin: 0;
 	padding: 0;
@@ -72,13 +72,14 @@ p a:hover {
 	padding: 0 19px;
 }
 #header ul li a {
-<<<<<<< HEAD
 	color: #66CDAA;
-=======
-	color: #5bc1ff;
->>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	display: inline-block;
+<<<<<<< HEAD
 	font-family: 'Ariel Black', cursive;
+=======
+	font-family: "Bungee", cursive;
+	font-family: 'Open Sans', sans-serif;
+>>>>>>> 38d9cfd5a820154c67efd17f1c897be72d3d1f62
 	font-size: 14px;
 	font-weight: normal;
 	margin: 0;
@@ -87,7 +88,7 @@ p a:hover {
 	text-transform: uppercase;
 }
 #header ul li a:hover, #header ul li.selected a {
-	color: lilac;
+	color: blue;
 }
 #body {
 	margin: 0;
@@ -95,12 +96,14 @@ p a:hover {
 	text-align: center;
 }
 #body h1 {
-<<<<<<< HEAD
 	color: #3CB371;
+<<<<<<< HEAD
 =======
 >>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
+=======
+>>>>>>> 38d9cfd5a820154c67efd17f1c897be72d3d1f62
 	display: inline;
-	font-family: 'Charmonman', cursive;;
+	font-family: 'Bungee', cursive;;
 	font-size: 35px;
 	font-weight: normal;
 	margin: 0;
@@ -108,11 +111,7 @@ p a:hover {
 	text-transform: uppercase;
 }
 #body h1 span {
-<<<<<<< HEAD
 	background: #FFC0CB;
-=======
-	background: salmon;
->>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	display: inline-block;
 	padding: 15px 28px 12px;
 }
@@ -122,11 +121,7 @@ p a:hover {
 	width: 960px;
 }
 #body > div img {
-<<<<<<< HEAD
 	border: 2px solid #FF1493;
-=======
-	border: 2px solid grey;
->>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	margin: 24px 0 0;
 	padding: 0;
 }
@@ -136,7 +131,11 @@ p a:hover {
 	width: 560px;
 }
 #body > div .article h2 {
+<<<<<<< HEAD
 	font-family: 'Arial Black';
+=======
+	font-family: "Bungee", cursive;
+>>>>>>> 38d9cfd5a820154c67efd17f1c897be72d3d1f62
 	font-size: 25px;
 	font-weight: normal;
 	margin: 0 0 30px;
@@ -148,15 +147,14 @@ p a:hover {
 	padding: 0;
 }
 #body > div .article h4 {
-<<<<<<< HEAD
 	background: #FFC0CB;
 	color: #3CB371;
-=======
-	background: cerise;
-	color: gold;
->>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	display: inline-block;
+<<<<<<< HEAD
 	font-family: 'Arial Black', cursive;, Gadget, sans-serif;
+=======
+	font-family: "Bungee", cursive;
+>>>>>>> 38d9cfd5a820154c67efd17f1c897be72d3d1f62
 	font-size: 25px;
 	font-weight: normal;
 	margin: 0 0 30px;
@@ -204,7 +202,7 @@ p a:hover {
 }
 #body div ul li div h3 {
 	color: #252525;
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: "Bungee", cursive;
 	font-size: 25px;
 	font-weight: normal;
 	margin: 0;
@@ -216,9 +214,9 @@ p a:hover {
 }
 #body div ul li div a.more {
 	background: #252525;
-	color: #252525;
+	color: #blue;
 	display: inline-block;
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: "Bungee", cursive;
 	font-size: 18px;
 	font-weight: normal;
 	margin: 0;
@@ -255,13 +253,8 @@ p a:hover {
 	width: 490px;
 }
 #body #featured div h2 {
-<<<<<<< HEAD
 	background: #fff;
 	color: #FF1493;
-=======
-	background: pink;
-	color: orange;
->>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	display: inline-block;
 	font-family: 'Bungee', cursive;
 	font-size: 50px;
@@ -318,12 +311,8 @@ p a:hover {
 	text-transform: uppercase;
 }
 #body > ul li a img {
-<<<<<<< HEAD
 	border: 2px solid  #FF1493;
-=======
   width: 300px
-	border: 2px solid orange;
->>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	display: block;
 	margin: 0;
 	padding: 0;
@@ -346,7 +335,7 @@ p a:hover {
 #body form input, #body form textarea {
 	border: 2px solid #252525;
 	color: #FFC0CB;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: "Bungee", Helvetica, sans-serif;
 	font-size: 15px;
 	font-weight: normal;
 	margin: 0 0 37px;
@@ -363,7 +352,7 @@ p a:hover {
 #body form #send {
 	background:  #FF1493;
 	color:  #FF1493;
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: "Bungee", Gadget, sans-serif;
 	font-size: 15px;
 	font-weight: normal;
 	display: inline-block;
@@ -376,11 +365,7 @@ p a:hover {
 	cursor: pointer;
 }
 #footer {
-<<<<<<< HEAD
 	background: #FF1493;
-=======
-	background: #ffcf5b;
->>>>>>> 9b7a82e8e16c5a30d81bcf16c0c7b5e2e6c8c3c1
 	margin: 0;
 	padding: 36px 0 42px;
 }
