@@ -1,12 +1,11 @@
 /* Website Template by freewebsitetemplates.com */
-@font-face {
-	font-family: 'poller_oneregular';
-	src: url('../fonts/pollerone/pollerone-webfont.eot');
-	src: url('../fonts/pollerone/pollerone-webfont.eot?#iefix') format('embedded-opentype'),
-		 url('../fonts/pollerone/pollerone-webfont.woff') format('woff'),
-		 url('../fonts/pollerone/pollerone-webfont.ttf') format('truetype'),
-		 url('../fonts/pollerone/pollerone-webfont.svg#poller_oneregular') format('svg');
+<style>
+@import url('https://fonts.googleapis.com/css?family=Charmonman');
+</style>
 }
+<style>
+@import url('https://fonts.googleapis.com/css?family=Charmonman|Open+Sans');
+</style>
 @font-face {
 	font-family: 'leckerli_oneregular';
 	src: url('../fonts/leckerlione/leckerlione-regular-webfont.eot');
@@ -18,7 +17,8 @@
 
 body {
 	background: #fff;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Charmonman', cursive;
+font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	font-weight: normal;
 	line-height: 1;
@@ -26,8 +26,9 @@ body {
 	min-width: 960px;
 	padding: 0;
 }
+
 p {
-	color: #252525;
+	color: #696969;
 	line-height: 24px;
 	margin: 0;
 	padding: 0;
@@ -69,9 +70,10 @@ p a:hover {
 	padding: 0 19px;
 }
 #header ul li a {
-	color: #252525;
+	color: #66CDAA;
 	display: inline-block;
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: 'Charmonman', cursive;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	font-weight: normal;
 	margin: 0;
@@ -88,9 +90,9 @@ p a:hover {
 	text-align: center;
 }
 #body h1 {
-	color: #fff;
+	color: #3CB371;
 	display: inline;
-	font-family: poller_oneregular;
+	font-family: 'Charmonman', cursive;;
 	font-size: 35px;
 	font-weight: normal;
 	margin: 0;
@@ -98,7 +100,7 @@ p a:hover {
 	text-transform: uppercase;
 }
 #body h1 span {
-	background: #252525;
+	background: #FFC0CB;
 	display: inline-block;
 	padding: 15px 28px 12px;
 }
@@ -108,7 +110,7 @@ p a:hover {
 	width: 960px;
 }
 #body > div img {
-	border: 2px solid #292929;
+	border: 2px solid #FF1493;
 	margin: 24px 0 0;
 	padding: 0;
 }
@@ -118,7 +120,7 @@ p a:hover {
 	width: 560px;
 }
 #body > div .article h2 {
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: 'Charmonman', cursive;
 	font-size: 25px;
 	font-weight: normal;
 	margin: 0 0 30px;
@@ -130,10 +132,10 @@ p a:hover {
 	padding: 0;
 }
 #body > div .article h4 {
-	background: #252525;
-	color: #fff;
+	background: #FFC0CB;
+	color: #3CB371;
 	display: inline-block;
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: 'Charmonman', cursive;, Gadget, sans-serif;
 	font-size: 25px;
 	font-weight: normal;
 	margin: 0 0 30px;
@@ -148,7 +150,7 @@ p a:hover {
 	width: 940px;
 }
 #body div ul li {
-	border: 2px solid #1a1a1a;
+	border: 2px solid #lalala;
 	display: block;
 	list-style: none;
 	margin: 0 0 13px;
@@ -192,8 +194,8 @@ p a:hover {
 	padding: 30px 30px 18px;
 }
 #body div ul li div a.more {
-	background: #000;
-	color: #fff;
+	background: #252525;
+	color: #252525;
 	display: inline-block;
 	font-family: "Arial Black", Gadget, sans-serif;
 	font-size: 18px;
@@ -233,7 +235,7 @@ p a:hover {
 }
 #body #featured div h2 {
 	background: #fff;
-	color: #000;
+	color: #FF1493;
 	display: inline-block;
 	font-family: poller_oneregular;
 	font-size: 20px;
@@ -290,7 +292,7 @@ p a:hover {
 	text-transform: uppercase;
 }
 #body > ul li a img {
-	border: 2px solid #1a1a1a;
+	border: 2px solid  #FF1493;
 	display: block;
 	margin: 0;
 	padding: 0;
@@ -312,7 +314,7 @@ p a:hover {
 }
 #body form input, #body form textarea {
 	border: 2px solid #252525;
-	color: #252525;
+	color: #FFC0CB;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 15px;
 	font-weight: normal;
@@ -328,8 +330,8 @@ p a:hover {
 	resize: none;
 }
 #body form #send {
-	background: #252525;
-	color: #fff;
+	background:  #FF1493;
+	color:  #FF1493;
 	font-family: "Arial Black", Gadget, sans-serif;
 	font-size: 15px;
 	font-weight: normal;
@@ -339,11 +341,11 @@ p a:hover {
 }
 #body form #send:hover {
 	background: #fff;
-	color: #252525;
+	color: #FFC0CB;
 	cursor: pointer;
 }
 #footer {
-	background: #252525;
+	background: #FF1493;
 	margin: 0;
 	padding: 36px 0 42px;
 }
